@@ -1,5 +1,7 @@
 # panel-altair-dashboard
-A tutorial on how to use Panel and Altair to create a simple data dashboard app.
+A tutorial on how to use Panel and Altair to create a simple data dashboard app. 
+
+Please make sure you are using Altair version 3.2 or above :).
 
 Here's what we'll make!
 
